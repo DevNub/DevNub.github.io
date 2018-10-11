@@ -49,7 +49,6 @@ div {
 .sidebar1 {
   font-family: 'Courier New', 'Times New Roman', Arial, Sans-Serif;
   top: 224px;
-  margin-left: 10%;
   padding: 10px;
   float: left;
   position: absolute;
@@ -77,13 +76,19 @@ div {
   font-weight: normal;
 }
 .sidebar2 {
-  left:25%;
   font-family: Sans-Serif;
-  position:relative;
+  position:static;
   padding: 15px;
+  margin-left: 300px;
   margin-right: 20%;
   width:65%;
   height: 1000px;
+  background: white;
+}
+
+.main {
+  width:100%;
+  height:999px;
   background: white;
 }
 
