@@ -1,3 +1,6 @@
 [submodule "info2180-lab4"]
 	path = info2180-lab4
 	url = https://github.com/DevNub/info2180-lab4.git
+[submodule "info2180-project2"]
+	path = info2180-project2
+	url = https://github.com/DevNub/info2180-project2.git
