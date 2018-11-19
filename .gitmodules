@@ -4,3 +4,6 @@
 [submodule "info2180-project2"]
 	path = info2180-project2
 	url = https://github.com/DevNub/info2180-project2.git
+[submodule "portfolio"]
+	path = portfolio
+	url = https://github.com/DevNub/portfolio.git
